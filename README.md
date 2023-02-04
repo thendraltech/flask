@@ -6,7 +6,8 @@
 ``` pip install virtualenv ```
 ### Creating requirement file for installing all the required packages
 #### requirement.txt
-``` flask
+```
+flask
 Flask-SQLAlchemy
 flask-login
 ```
